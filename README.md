@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utkarsh
-- 👀 I’m interested in Software Development and work as a Salesforce Developer. Apart from Development I like talking about Sports, Science, History and Philosophy.
+- 👀 I’m interested in Software Development and work as a Salesforce Developer. Apart from Code I like talking about Sports, Science, Technology, History and Philosophy.
 - 🌱 I’m currently learning Python.
 
 <!---
